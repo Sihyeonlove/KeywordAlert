@@ -1,5 +1,5 @@
-const token = 'MTIwMDM0MDIwNDU4MjYxMzAzMg.GgXYYC.u--G4N4-rALxYKXliwhsxMeNf-z-n-g6C2o46A'; //토큰
-const clientId = '1200340204582613032'; //ID
+const token = '---------------------'; //토큰
+const clientId = '----------------------'; //ID
 
 let userdb = []; //-틀-
 /**단어를 감지해서, 들어있으면 true, 아니면 false 리턴하는 boolen 리턴 함수, 파라미터는 각각 키워드 array와 메시지 string */
